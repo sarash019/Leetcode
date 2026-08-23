@@ -21,4 +21,20 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarash019/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
