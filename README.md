@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarash019/Leetcode/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarash019/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
