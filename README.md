@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarash019/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -39,12 +40,14 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 | [3794-reverse-string-prefix](https://github.com/sarash019/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarash019/Leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -54,6 +57,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
+| [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 ## Quicksort
 |  |
 | ------- |
