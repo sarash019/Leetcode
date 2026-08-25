@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarash019/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
