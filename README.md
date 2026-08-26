@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarash019/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sarash019/Leetcode/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
