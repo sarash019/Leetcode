@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarash019/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 | [3794-reverse-string-prefix](https://github.com/sarash019/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -67,6 +68,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sarash019/Leetcode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sarash019/Leetcode/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sarash019/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
