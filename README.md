@@ -72,6 +72,7 @@
 | [0020-valid-parentheses](https://github.com/sarash019/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/sarash019/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sarash019/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sarash019/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sarash019/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -92,6 +93,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/sarash019/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sarash019/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sarash019/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/sarash019/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -105,4 +107,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sarash019/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sarash019/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
