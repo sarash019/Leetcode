@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -108,4 +109,20 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sarash019/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarash019/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
