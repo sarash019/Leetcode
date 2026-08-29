@@ -22,12 +22,14 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
+| [0146-lru-cache](https://github.com/sarash019/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarash019/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/sarash019/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/sarash019/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarash019/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sarash019/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
@@ -92,6 +94,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sarash019/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sarash019/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sarash019/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarash019/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -125,4 +128,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sarash019/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
