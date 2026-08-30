@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 ## String
 |  |
@@ -111,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -138,4 +140,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/sarash019/Leetcode/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/sarash019/Leetcode/tree/master/1472-design-browser-history) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
