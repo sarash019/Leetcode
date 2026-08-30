@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sarash019/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/sarash019/Leetcode/tree/master/1472-design-browser-history) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
@@ -81,6 +82,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/sarash019/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sarash019/Leetcode/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sarash019/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/sarash019/Leetcode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
@@ -103,6 +105,7 @@
 | [0225-implement-stack-using-queues](https://github.com/sarash019/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sarash019/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/sarash019/Leetcode/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sarash019/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/sarash019/Leetcode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
