@@ -58,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarash019/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
+| [1362-closest-divisors](https://github.com/sarash019/Leetcode/tree/master/1362-closest-divisors) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarash019/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sarash019/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Prime Factorization
+|  |
+| ------- |
+| [1362-closest-divisors](https://github.com/sarash019/Leetcode/tree/master/1362-closest-divisors) |
 <!---LeetCode Topics End-->
