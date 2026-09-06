@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/sarash019/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarash019/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/sarash019/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sarash019/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sarash019/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -184,6 +185,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sarash019/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sarash019/Leetcode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
