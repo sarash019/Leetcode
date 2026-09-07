@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
+| [0908-smallest-range-i](https://github.com/sarash019/Leetcode/tree/master/0908-smallest-range-i) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sarash019/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/sarash019/Leetcode/tree/master/1472-design-browser-history) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarash019/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
+| [0908-smallest-range-i](https://github.com/sarash019/Leetcode/tree/master/0908-smallest-range-i) |
 | [1362-closest-divisors](https://github.com/sarash019/Leetcode/tree/master/1362-closest-divisors) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarash019/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
