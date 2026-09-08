@@ -15,6 +15,7 @@
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
 | [0908-smallest-range-i](https://github.com/sarash019/Leetcode/tree/master/0908-smallest-range-i) |
@@ -138,6 +139,7 @@
 | [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sarash019/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Queue
 |  |
@@ -196,6 +198,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [1362-closest-divisors](https://github.com/sarash019/Leetcode/tree/master/1362-closest-divisors) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
