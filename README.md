@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/sarash019/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/sarash019/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -30,6 +31,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sarash019/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarash019/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/sarash019/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarash019/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sarash019/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarash019/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
@@ -203,6 +206,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sarash019/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
