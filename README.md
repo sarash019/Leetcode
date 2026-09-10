@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/sarash019/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sarash019/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/sarash019/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/sarash019/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarash019/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sarash019/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 ## Game Theory
@@ -142,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sarash019/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sarash019/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
