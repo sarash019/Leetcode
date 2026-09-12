@@ -1,6 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
-        //tabulation with best space
+        // Simple tabulation
         int n = nums.length;
         int[] dp = new int[n];
 
