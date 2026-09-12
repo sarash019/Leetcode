@@ -1,19 +1,21 @@
 class Solution {
     public int rob(int[] nums) {
         //tabulation with best space
-        int prev = nums[0];
-        int prev2 = 0;
-        for(int i = 0; i < nums.length; i++){
+        int n = nums.length;
+        int[] dp = new int[n];
+
+        dp[0] = nums[0];
+        int neg = 0;
+        int i = 0;
+        for(i = 1; i < n; i++){
             int take = nums[i];
-            if(i > 1)  take += prev2;
+            if(i > 1)  take += dp[i-2];
 
-            int nottake = 0 + prev;
+            int nottake = 0 + dp[i-1];
 
-            int curri = Math.max(take, nottake);
+            dp[i] = Math.max(take, nottake);
 
-            prev2 = prev;
-            prev = curri;
         }
-        return prev;
+        return dp[i-1];
     }
 }
