@@ -24,30 +24,26 @@
  * }
  */
 class Solution {
-    public TreeNode helper(int[] tree, int start, int end){
-        if(start > end)  return null;
-
-        int mid = (start+end)/2;
-
-        TreeNode root = new TreeNode(tree[mid]);
-        root.left = helper(tree, start, mid-1);
-        root.right = helper(tree, mid+1, end);
-
-        return root;
-    }
+    // Better Solution
     public TreeNode sortedListToBST(ListNode head) {
-        List<Integer> tree = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null){
-            tree.add(temp.val);
-            temp = temp.next;
+        if(head == null)  return null;
+        if(head.next == null)  return new TreeNode(head.val);
+
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode mid = head;
+        while(fast != null && fast.next != null){
+            mid = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        int n = tree.size();
-        int[] treee = new int[n];
-        int ind = 0;
-        for(int it : tree){
-            treee[ind++] = it;
-        }
-        return helper(treee, 0, n-1);
+
+        TreeNode newNode  = new TreeNode(slow.val);
+        mid.next = null;
+        newNode.left = sortedListToBST(head);
+        newNode.right = sortedListToBST(slow.next);
+
+        return newNode;
+
     }
 }
