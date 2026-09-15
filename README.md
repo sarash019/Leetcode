@@ -71,6 +71,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarash019/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/sarash019/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sarash019/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/sarash019/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/sarash019/Leetcode/tree/master/0908-smallest-range-i) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarash019/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/sarash019/Leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/sarash019/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sarash019/Leetcode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
@@ -289,4 +291,12 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sarash019/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarash019/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sarash019/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sarash019/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
