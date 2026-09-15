@@ -14,6 +14,7 @@
 | [0057-insert-interval](https://github.com/sarash019/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sarash019/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sarash019/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/sarash019/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarash019/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sarash019/Leetcode/tree/master/0198-house-robber) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarash019/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarash019/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sarash019/Leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarash019/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3794-reverse-string-prefix](https://github.com/sarash019/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
@@ -106,11 +108,13 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sarash019/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sarash019/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/sarash019/Leetcode/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -299,4 +303,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sarash019/Leetcode/tree/master/0067-add-binary) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarash019/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
