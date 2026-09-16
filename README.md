@@ -23,6 +23,7 @@
 | [0213-house-robber-ii](https://github.com/sarash019/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarash019/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sarash019/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sarash019/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sarash019/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -51,6 +52,7 @@
 | [0041-first-missing-positive](https://github.com/sarash019/Leetcode/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/sarash019/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sarash019/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/sarash019/Leetcode/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -79,6 +81,7 @@
 | [0062-unique-paths](https://github.com/sarash019/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sarash019/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sarash019/Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/sarash019/Leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/sarash019/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/sarash019/Leetcode/tree/master/0908-smallest-range-i) |
 | [1362-closest-divisors](https://github.com/sarash019/Leetcode/tree/master/1362-closest-divisors) |
@@ -115,6 +118,7 @@
 | [0075-sort-colors](https://github.com/sarash019/Leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarash019/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/sarash019/Leetcode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -253,6 +257,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sarash019/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sarash019/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
@@ -306,6 +311,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sarash019/Leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/sarash019/Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
