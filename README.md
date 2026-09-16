@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarash019/Leetcode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/sarash019/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/sarash019/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sarash019/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/sarash019/Leetcode/tree/master/0146-lru-cache) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sarash019/Leetcode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/sarash019/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/sarash019/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Bracket Sequences
 |  |
