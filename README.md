@@ -33,6 +33,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/sarash019/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarash019/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/sarash019/Leetcode/tree/master/1472-design-browser-history) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarash019/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarash019/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sarash019/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -90,6 +91,7 @@
 | [0908-smallest-range-i](https://github.com/sarash019/Leetcode/tree/master/0908-smallest-range-i) |
 | [1362-closest-divisors](https://github.com/sarash019/Leetcode/tree/master/1362-closest-divisors) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarash019/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sarash019/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sarash019/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarash019/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
