@@ -108,6 +108,7 @@
 | [0067-add-binary](https://github.com/sarash019/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sarash019/Leetcode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarash019/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/sarash019/Leetcode/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sarash019/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/sarash019/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -146,6 +147,7 @@
 | [0901-online-stock-span](https://github.com/sarash019/Leetcode/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sarash019/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/sarash019/Leetcode/tree/master/1472-design-browser-history) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarash019/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarash019/Leetcode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sarash019/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
