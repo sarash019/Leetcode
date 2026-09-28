@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/sarash019/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sarash019/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/sarash019/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/sarash019/Leetcode/tree/master/0739-daily-temperatures) |
 | [0908-smallest-range-i](https://github.com/sarash019/Leetcode/tree/master/0908-smallest-range-i) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarash019/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sarash019/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/sarash019/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarash019/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
