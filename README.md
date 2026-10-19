@@ -36,6 +36,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/sarash019/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sarash019/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/sarash019/Leetcode/tree/master/1472-design-browser-history) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sarash019/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sarash019/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sarash019/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sarash019/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -133,6 +134,7 @@
 | [0179-largest-number](https://github.com/sarash019/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarash019/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/sarash019/Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sarash019/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/sarash019/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sarash019/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/sarash019/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sarash019/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Rolling Hash
 |  |
 | ------- |
